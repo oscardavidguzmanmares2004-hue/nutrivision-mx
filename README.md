@@ -155,7 +155,12 @@ En pantalla se muestran el platillo, la confianza, el top-3, las calorías aprox
 
 ## 8. Video de respaldo
 
-🎥 _Pendiente: enlace al video de 1–2 min (YouTube no listado o Drive)._
+🎥 **[Ver video de respaldo (1 min 37 s)](https://github.com/oscardavidguzmanmares2004-hue/nutrivision-mx/releases/download/v1.0-final/demo_respaldo.mp4)**
+
+Es la grabación de la app procesando `app/demo.mp4` en una MacBook con Apple M4 (CPU, ONNX FP32). Se ven el platillo, la confianza, el top-3, las kcal, los FPS y la latencia. También aparecen los casos "Sin imagen", "Otro platillo" y "No estoy seguro"; a mitad del video el umbral sube a 90 % para mostrar la abstención.
+
+- Se genera sin cámara ni ventana con `python app/grabar_respaldo.py`.
+- La demo en vivo de la defensa usa la webcam: `python app/demo.py --source 0`.
 
 ## 9. Limitaciones
 
@@ -185,7 +190,7 @@ Ver también [`MODEL_CARD.md`](MODEL_CARD.md) y [`docs/informe_etico.pdf`](docs/
 ├── README.md · MODEL_CARD.md · NutriVision_Colab.ipynb · requirements.txt · LICENSE · .gitignore
 ├── data/        download.py, README.md (los datos NO se versionan)
 ├── src/         config, make_splits, data, models, train, evaluate, gradcam, export, compare, robustness, subgroups, prepare_ood, download_ood
-├── app/         demo.py (tiempo real), make_demo_video.py, capture_ood.py
+├── app/         demo.py (tiempo real), make_demo_video.py, grabar_respaldo.py, capture_ood.py
 ├── eval/        robustez.ipynb, auditoria_subgrupos.ipynb, analisis_errores.ipynb
 ├── notebooks/   01_exploracion_datos, 02_curvas_entrenamiento, 03_revision_etiquetas
 ├── runs/        métricas, historiales y tablas por arquitectura (pesos en Releases)

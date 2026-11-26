@@ -1,0 +1,33 @@
+{
+  "arch": "mobilenet_v3_large",
+  "seed": 42,
+  "device": "cuda",
+  "epochs_run": 15,
+  "best_epoch": 13,
+  "best_val_f1_macro": 0.8353118196295293,
+  "train_minutes": 15.25337370634079,
+  "params": 4213561,
+  "hyperparams": {
+    "arch": "mobilenet_v3_large",
+    "epochs": 15,
+    "batch": 64,
+    "lr": 0.0003,
+    "weight_decay": 0.0001,
+    "patience": 4,
+    "workers": 2,
+    "device": "auto"
+  },
+  "n_train": 6079,
+  "n_val": 1013,
+  "class_weights": {
+    "breakfast_burrito": 1.034999966621399,
+    "ceviche": 1.0379999876022339,
+    "chicken_quesadilla": 1.0399999618530273,
+    "churros": 1.0399999618530273,
+    "guacamole": 1.034999966621399,
+    "huevos_rancheros": 1.034999966621399,
+    "nachos": 1.034999966621399,
+    "tacos": 1.034999966621399,
+    "otro": 0.7059999704360962
+  }
+}

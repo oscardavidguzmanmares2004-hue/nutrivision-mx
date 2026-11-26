@@ -1,0 +1,75 @@
+{
+  "n": 2374,
+  "accuracy": 0.8550968828980623,
+  "f1_macro": 0.8586740672856538,
+  "top3_accuracy": 0.966301600673968,
+  "per_class": {
+    "breakfast_burrito": {
+      "precision": 0.8455284552845529,
+      "recall": 0.832,
+      "f1-score": 0.8387096774193549,
+      "support": 250.0
+    },
+    "ceviche": {
+      "precision": 0.8616600790513834,
+      "recall": 0.872,
+      "f1-score": 0.8667992047713717,
+      "support": 250.0
+    },
+    "chicken_quesadilla": {
+      "precision": 0.844106463878327,
+      "recall": 0.888,
+      "f1-score": 0.8654970760233918,
+      "support": 250.0
+    },
+    "churros": {
+      "precision": 0.9418604651162791,
+      "recall": 0.972,
+      "f1-score": 0.9566929133858267,
+      "support": 250.0
+    },
+    "guacamole": {
+      "precision": 0.9626556016597511,
+      "recall": 0.928,
+      "f1-score": 0.945010183299389,
+      "support": 250.0
+    },
+    "huevos_rancheros": {
+      "precision": 0.7613636363636364,
+      "recall": 0.804,
+      "f1-score": 0.7821011673151751,
+      "support": 250.0
+    },
+    "nachos": {
+      "precision": 0.8527131782945736,
+      "recall": 0.88,
+      "f1-score": 0.8661417322834646,
+      "support": 250.0
+    },
+    "tacos": {
+      "precision": 0.8266129032258065,
+      "recall": 0.82,
+      "f1-score": 0.8232931726907631,
+      "support": 250.0
+    },
+    "otro": {
+      "precision": 0.8192419825072886,
+      "recall": 0.7513368983957219,
+      "f1-score": 0.7838214783821479,
+      "support": 374.0
+    },
+    "accuracy": 0.8550968828980623,
+    "macro avg": {
+      "precision": 0.8573047517090665,
+      "recall": 0.860815210932858,
+      "f1-score": 0.8586740672856538,
+      "support": 2374.0
+    },
+    "weighted avg": {
+      "precision": 0.8553166373952416,
+      "recall": 0.8550968828980623,
+      "f1-score": 0.8547643280168944,
+      "support": 2374.0
+    }
+  }
+}

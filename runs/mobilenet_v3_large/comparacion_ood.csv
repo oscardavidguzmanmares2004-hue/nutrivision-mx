@@ -1,0 +1,4 @@
+,n,exactitud,f1_macro,confianza_media
+Prueba Food-101 (9 clases),2374.0,0.856,0.859,0.768
+Prueba Food-101 (mismas 7 clases),1874.0,0.828,0.837,0.748
+Food-500 (OOD),80.0,0.75,0.767,0.724

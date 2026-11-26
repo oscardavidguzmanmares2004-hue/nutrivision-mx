@@ -1,0 +1,55 @@
+{
+  "hamming_threshold": 4,
+  "removed_train_dups_of_test": 6,
+  "dup_clusters_in_train": 4,
+  "removed_wrong_label": [
+    "data/raw/breakfast_burrito/752124.jpg",
+    "data/raw/churros/2836649.jpg"
+  ],
+  "counts": {
+    "train": {
+      "breakfast_burrito": 643,
+      "ceviche": 641,
+      "chicken_quesadilla": 640,
+      "churros": 640,
+      "guacamole": 643,
+      "huevos_rancheros": 643,
+      "nachos": 643,
+      "tacos": 643,
+      "otro": 943
+    },
+    "val": {
+      "breakfast_burrito": 106,
+      "ceviche": 107,
+      "chicken_quesadilla": 108,
+      "churros": 108,
+      "guacamole": 107,
+      "huevos_rancheros": 106,
+      "nachos": 107,
+      "tacos": 107,
+      "otro": 157
+    },
+    "test": {
+      "breakfast_burrito": 250,
+      "ceviche": 250,
+      "chicken_quesadilla": 250,
+      "churros": 250,
+      "guacamole": 250,
+      "huevos_rancheros": 250,
+      "nachos": 250,
+      "tacos": 250,
+      "otro": 374
+    }
+  },
+  "mex_classes": [
+    "breakfast_burrito",
+    "ceviche",
+    "chicken_quesadilla",
+    "churros",
+    "guacamole",
+    "huevos_rancheros",
+    "nachos",
+    "tacos"
+  ],
+  "seed": 42
+}

@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.ipynb_checkpoints/
+
+# Datos (se descargan con data/download.py; NO se suben al repo)
+data/raw/
+data/splits/*.csv
+!data/splits/reporte_particiones.json
+data/ood/
+data/ood_originales/
+
+# Modelos y artefactos pesados (se publican en GitHub Releases)
+runs/**/*.pt
+runs/**/*.onnx
+runs/**/predictions.csv
+app/*.mp4
+
+# Sistema
+.DS_Store
+
+# macOS
+.DS_Store

@@ -1,0 +1,41 @@
+id,path,label,orig_class,veredicto,comentario
+0,data/raw/huevos_rancheros/152073.jpg,huevos_rancheros,huevos_rancheros,correcta,
+1,data/raw/breakfast_burrito/2653297.jpg,breakfast_burrito,breakfast_burrito,dudosa,Parece omelette o crepa; no se distingue la tortilla de burrito
+2,data/raw/breakfast_burrito/3016427.jpg,breakfast_burrito,breakfast_burrito,correcta,
+3,data/raw/guacamole/3565109.jpg,guacamole,guacamole,correcta,
+4,data/raw/breakfast_burrito/539675.jpg,breakfast_burrito,breakfast_burrito,correcta,
+5,data/raw/otro/pizza__218711.jpg,otro,pizza,correcta,
+6,data/raw/tacos/956341.jpg,tacos,tacos,correcta,
+7,data/raw/chicken_quesadilla/3229209.jpg,chicken_quesadilla,chicken_quesadilla,correcta,
+8,data/raw/huevos_rancheros/1805435.jpg,huevos_rancheros,huevos_rancheros,correcta,
+9,data/raw/nachos/2241874.jpg,nachos,nachos,correcta,
+10,data/raw/churros/170460.jpg,churros,churros,correcta,
+11,data/raw/nachos/1143351.jpg,nachos,nachos,correcta,
+12,data/raw/churros/258780.jpg,churros,churros,correcta,
+13,data/raw/nachos/1648955.jpg,nachos,nachos,correcta,
+14,data/raw/ceviche/3861789.jpg,ceviche,ceviche,correcta,
+15,data/raw/guacamole/309276.jpg,guacamole,guacamole,correcta,
+16,data/raw/huevos_rancheros/2309799.jpg,huevos_rancheros,huevos_rancheros,correcta,
+17,data/raw/ceviche/1563580.jpg,ceviche,ceviche,correcta,
+18,data/raw/breakfast_burrito/752124.jpg,breakfast_burrito,breakfast_burrito,incorrecta,Solo se ven papas (tater tots) y salsas; no hay burrito visible
+19,data/raw/ceviche/904.jpg,ceviche,ceviche,dudosa,Plátano frito con salsa/guacamole; el ceviche no es claro
+20,data/raw/huevos_rancheros/2969923.jpg,huevos_rancheros,huevos_rancheros,correcta,
+21,data/raw/chicken_quesadilla/1261249.jpg,chicken_quesadilla,chicken_quesadilla,dudosa,Contenedores para llevar con totopos y salsas; la quesadilla casi no se ve
+22,data/raw/huevos_rancheros/2741276.jpg,huevos_rancheros,huevos_rancheros,correcta,
+23,data/raw/guacamole/907453.jpg,guacamole,guacamole,correcta,
+24,data/raw/huevos_rancheros/1387545.jpg,huevos_rancheros,huevos_rancheros,correcta,
+25,data/raw/chicken_quesadilla/3410516.jpg,chicken_quesadilla,chicken_quesadilla,correcta,
+26,data/raw/otro/caesar_salad__350471.jpg,otro,caesar_salad,correcta,
+27,data/raw/churros/2836649.jpg,churros,churros,incorrecta,Postre en vaso; no hay churros visibles
+28,data/raw/guacamole/1017481.jpg,guacamole,guacamole,correcta,
+29,data/raw/huevos_rancheros/2405983.jpg,huevos_rancheros,huevos_rancheros,dudosa,Parecen enchiladas con crema y plátano
+30,data/raw/churros/2266312.jpg,churros,churros,correcta,
+31,data/raw/tacos/1594984.jpg,tacos,tacos,correcta,
+32,data/raw/chicken_quesadilla/2574157.jpg,chicken_quesadilla,chicken_quesadilla,correcta,
+33,data/raw/guacamole/2310050.jpg,guacamole,guacamole,correcta,
+34,data/raw/guacamole/3773693.jpg,guacamole,guacamole,correcta,
+35,data/raw/ceviche/1914547.jpg,ceviche,ceviche,correcta,
+36,data/raw/huevos_rancheros/476239.jpg,huevos_rancheros,huevos_rancheros,correcta,
+37,data/raw/ceviche/3274345.jpg,ceviche,ceviche,dudosa,Parece ensalada de frutas con granada
+38,data/raw/huevos_rancheros/1389561.jpg,huevos_rancheros,huevos_rancheros,correcta,
+39,data/raw/breakfast_burrito/228138.jpg,breakfast_burrito,breakfast_burrito,correcta,
